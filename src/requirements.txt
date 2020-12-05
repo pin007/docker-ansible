@@ -1,0 +1,11 @@
+ansible-lint
+ansible-review
+ansible==2.*
+awscli
+boto
+boto3
+jmespath
+mitogen==0.2.*
+natsort
+netaddr
+yamllint
